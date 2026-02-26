@@ -3,7 +3,7 @@ Hi, I’m Ryan, a 17-year-old full-stack developer with a strong passion for web
 
 I’m always looking to improve my skills and learn new technologies to become a better developer every day.
 
-Outside of coding, I play basketball, go to the gym, and enjoy gaming in my free time. I like pushing myself — whether it’s in sports or in programming.
+Outside of coding, I play basketball, go to the gym, and enjoy gaming in my free time. I like pushing myself whether it’s in sports or in programming.
 
 
 ## 🌐 Socials:
