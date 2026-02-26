@@ -1,12 +1,9 @@
 # 💫 About Me:
-name: Ryan<br>
-age: 17<br>
-birthday: 27-07-2008<br>
-html<br>css<br>javascript<br>react<br>node.js<br>next.js<br>mern<br>typescript<br>tailwind css<br>
+Hi, I’m Ryan, a 17-year-old full-stack developer with a strong passion for web development. I enjoy building modern, responsive, and user-friendly applications using technologies like HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, and the MERN stack. I also work with Tailwind CSS and use tools like VS Code, Git, and GitHub in my daily workflow.
 
-VS Code<br>git, github<br>
+I’m always looking to improve my skills and learn new technologies to become a better developer every day.
 
-<br>doe basketball en sportschool in me vrije tijd, game ook een beetje
+Outside of coding, I play basketball, go to the gym, and enjoy gaming in my free time. I like pushing myself — whether it’s in sports or in programming.
 
 
 ## 🌐 Socials:
