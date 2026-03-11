@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ryan, a 17-year-old frontned developer with a strong passion for web development. I enjoy building modern, responsive, and user-friendly applications using technologies like HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, and the MERN stack. I also work with Tailwind CSS and use tools like VS Code, Git, and GitHub in my daily workflow.
+Hi, I’m Ryan, a 17-year-old frontend developer with a strong passion for web development. I enjoy building modern, responsive, and user-friendly applications using technologies like HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, and the MERN stack. I also work with Tailwind CSS and use tools like VS Code, Git, and GitHub in my daily workflow.
 
 I’m always looking to improve my skills and learn new technologies to become a better developer every day.
 
