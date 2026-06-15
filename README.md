@@ -14,9 +14,6 @@ What I enjoy most about programming is the process of learning, solving problems
 - ⚙️ Learning more about full-stack development and best practices
 - 🔍 Looking for opportunities to gain real-world experience
 
-## 🎯 Goals
-
-I'm always looking to improve as a developer and challenge myself with new technologies. In the future, I'm considering pursuing a Bachelor's degree in Creative Media & Game Technologies (CMGT).
 
 ## 🏀 Outside of Coding
 
