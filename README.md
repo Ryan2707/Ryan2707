@@ -32,7 +32,7 @@ When I'm not behind my computer, you'll probably find me:
 
 ## 📈 A Few Facts About Me
 
-- 🎂 17 years old
+- 🎂 18 years old
 - 💻 Coding for almost 3 years
 - 🇳🇱 Based in the Netherlands
 - 🎓 MBO 4 Software Development student
