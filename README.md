@@ -1,6 +1,6 @@
 # Hey, I'm Ryan 👋
 
-I'm a 17-year-old developer from the Netherlands with a passion for web development and building things on the internet. I've been coding for almost 3 years and enjoy creating modern, responsive, and user-friendly applications.
+I'm a 18-year-old developer from the Netherlands with a passion for web development and building things on the internet. I've been coding for almost 3 years and enjoy creating modern, responsive, and user-friendly applications.
 
 I primarily work with HTML, CSS, JavaScript, React, Next.js, Node.js, MongoDB, and the MERN stack, while also using Tailwind CSS, Git, GitHub, and VS Code as part of my daily workflow.
 
